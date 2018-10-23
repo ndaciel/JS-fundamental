@@ -1,4 +1,6 @@
 // Coba Coba Git 22
+
+//Const ArrayNew - [1,2,3,4];
 const products = [
     {
       name: "Uncharted 4",
